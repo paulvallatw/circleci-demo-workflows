@@ -1,6 +1,6 @@
 # CircleCI Workflows Demos: Fan-in / Fan-out
 
-...
+....
 
 ## Other Workflows Demos
 
